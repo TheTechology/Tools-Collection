@@ -1,4 +1,4 @@
-# Colecția de instrumente. Oferti de Marian DUMITRU & Popa Daniel 
+# Colecția de instrumente web! Oferti de Marian DUMITRU & Popa Daniel 
 O colecție de instrumente, site web și AI pentru antreprenori, designeri web, programatori și pentru toți ceilalți.
 
 # Artificial Intelligence
