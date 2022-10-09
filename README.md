@@ -1,4 +1,4 @@
-# Instrumente web! Oferti de Marian DUMITRU & Popa Daniel 
+# Instrumente web! Oferti de Marian DUMITRU & <strong><a href="https://github.com/popadanielIT">Popa Daniel</a></strong> 
 O colecție de instrumente, site web și AI pentru antreprenori, designeri web, programatori și pentru toți ceilalți.
 
 # Artificial Intelligence
